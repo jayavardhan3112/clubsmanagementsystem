@@ -9,7 +9,7 @@
       	<meta name="description" content="IIITDMJ CLUBS">
       	<meta name="author"      content="Jaivardhan">
 
-        <title>IIITDMJ</title>
+        <title>IIITDMJ Athletics</title>
 
 
     
